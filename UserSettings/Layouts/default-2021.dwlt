@@ -138,8 +138,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: -25600
-    y: -25569.6
+    x: 0
+    y: 73.6
     width: 2048
     height: 1119.8
   m_ViewDataDictionary: {fileID: 0}
